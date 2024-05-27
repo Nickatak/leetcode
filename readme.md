@@ -1,0 +1,1 @@
+This is a leetcode repository for learning purposes.  There maybe extra verbosity, but I'd err on the side of caution, especially for newcomers.
